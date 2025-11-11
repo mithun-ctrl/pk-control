@@ -1,0 +1,27 @@
+{
+  "name": "pkbot-control",
+  "version": "1.0.0",
+  "description": "A web tool to manage pk-cinema-bot.",
+  "keywords": [
+    "control",
+    "bot",
+    "tg",
+    "telelgram",
+    "web"
+  ],
+  "homepage": "https://github.com/mithun-ctrl/pk-control#readme",
+  "bugs": {
+    "url": "https://github.com/mithun-ctrl/pk-control/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithun-ctrl/pk-control.git"
+  },
+  "license": "ISC",
+  "author": "mithun-ctrl",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
